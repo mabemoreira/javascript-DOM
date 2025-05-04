@@ -17,7 +17,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o projeto final [aqui](google.com)
+Você pode acessar o projeto final [aqui](https://mabemoreira.github.io/javascript-DOM)
 
 
 ## 📁 Créditos
